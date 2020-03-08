@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "manu",
+    "DB_PASSWORD": "esq9x50KuxeRmFPZ",
+    "DB_NAME": "test159",
+    "GOOGLE_API_KEY": "AIzaSyAHMg_D0Wf0mipC0Zp0TOG1g3sDL7lNDWk",
+    "JWT_KEY": "supersecret_not_share"
+  }
+}
